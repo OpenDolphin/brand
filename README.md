@@ -1,5 +1,7 @@
 # brand
 
+<img src="logo/logo.svg" height="200"/>
+
 This repository contains the brand identity of OpenDolphin.
 
 ## Contribution
